@@ -1,1 +1,0 @@
-Thư mục này dùng để chứa ảnh chụp board đã khoanh chân và video test mạch.
