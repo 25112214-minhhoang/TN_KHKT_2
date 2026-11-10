@@ -1,0 +1,1 @@
+Thư mục này chứa file .fzz và ảnh xuất PNG sơ đồ đấu dây.
